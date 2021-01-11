@@ -1,0 +1,91 @@
+h1{
+    color: white;
+    background-color: brown; 
+}
+*{
+    background-color: peachpuff;
+
+}
+hr{
+    color: red; 
+}
+h2{
+
+    font-family:'Times New Roman';
+    background-color: white;
+
+}
+.top{
+
+    display: flex;
+    justify-content: space-between; 
+}
+
+.contnet{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    /*border-radius: 20px; 
+    background-color: white; 
+*/
+
+
+}
+p {
+
+    text-align: center;
+    background-color: white;
+
+
+}
+
+.item{
+
+    border-radius: 20px; 
+    background-color: lightblue; 
+
+
+}
+.int{
+
+    text-align: center;
+    
+
+
+
+}
+
+
+.int{
+
+    position: relative;
+}
+
+.int p{
+    
+    position: absolute;
+    top: 50%; 
+    left: 35%;
+
+}
+.int h2{
+    
+    position: absolute;
+    top: 35%; 
+    left: 37%;
+
+}
+/*
+.pic{
+
+    background-color: lightblue; 
+
+}
+.list{
+
+
+    background-color: lightblue; 
+
+}*/
